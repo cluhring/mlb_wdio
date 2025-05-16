@@ -12,6 +12,8 @@ These tests can be run after cd'ing into the mlb_wdio_tests folder and running t
  -  npm i
  -  npx wdio run ./wdio.conf.ts --spec specs/test.e2e.js
 
+Note: These tests are dependent on user credentials in /data/credentials.json file - and look for Rockies videos specifically.
+
 Built using:
  -  node v22.10.0
  -  wdio v9.13.0
