@@ -16,6 +16,6 @@ Built using:
  -  node v22.10.0
  -  wdio v9.13.0
 
- Vidoe:
+ Video:
 
- ![](/mlb_wdio.mp4)
+ ![](/mlb_wdio.gif)
